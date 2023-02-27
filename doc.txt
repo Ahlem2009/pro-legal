@@ -1,0 +1,4 @@
+added all asset files in assets folder
+added script and stylesheet files in index.html
+created frontend folder in app 
+created header component in frontend

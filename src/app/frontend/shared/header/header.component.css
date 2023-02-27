@@ -1,0 +1,23 @@
+.light-blue{
+    color: lightblue
+}
+.image{
+    width: 30%;
+    height: 30%;
+}
+
+
+.card:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 4px 17px rgba(110, 105, 105, 0.926);
+  }
+
+  .categorie{
+    padding: 2rem;
+  }
+
+  .ahmed{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+  }
